@@ -13,7 +13,7 @@ def AdditivePersistence(num):
      digits = [int(x) for x in sdigits]
      num = sum(digits)
      steps = steps + 1
-   return steps
+   return num
 
     
     
